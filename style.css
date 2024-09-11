@@ -599,6 +599,7 @@ footer {
 /* Responsive Styles */
 
 @media screen and (max-width: 1024px) {
+    
     body {
         width: 100%;
     }
@@ -618,7 +619,7 @@ footer {
     .navbar-right {
         display: none;
     }
-
+    
     .menu-icon {
         display: block;
     }
@@ -683,7 +684,7 @@ footer {
 
     .blueBox {
         width: 100%;
-        height: 200px;
+        height: 100px;
         padding: 0;
     }
 
